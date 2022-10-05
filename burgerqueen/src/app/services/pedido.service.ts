@@ -14,8 +14,7 @@ export class PedidoService {
   async addOrden(orden : Orden) {
     const ordenRef = collection(this.firestore, 'ordens')
     const idOrder = await addDoc(ordenRef, orden);
-    orden.id = idOrder.id;
-    
+    orden.id = idOrder.id;    
   }
 
   getOrders():Observable<Orden[]>{
