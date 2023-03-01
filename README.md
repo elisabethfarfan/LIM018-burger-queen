@@ -11,6 +11,11 @@ Coffee Dream cafetería tiene como propósito brindar el mejor café, y también
 ## 2. Resumen del proyecto
 
 Coffee Dream es la aplicación web para una cafetería en el cual puedan tomar pedidos usando una tablet, y enviarlos a la cocina para que se preparen los pedidos de nuestros clientes. De tal forma que exista comunicación constante entre el servicio de mozos y la cocina, y ambos puean ver los estados de los pedidos de nuestros clientes.
+USUARIOS
+- waiter@coffeedream2.com  pass: changeme
+- cocinero@coffeedream3.com  pass: changeme
+
+
 
 El objetivo principal es aprender a construir una interfaz web usando el framework Angular. Donde la aplicación debe ser un Single Page App.
 
